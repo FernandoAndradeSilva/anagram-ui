@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.css"],
+  "sourcesContent": [".first-title {\r\n  flex: 1;\r\n  text-align: center;\r\n  color: #333;\r\n  font-size: 28px;\r\n  font-weight: bold;\r\n  font-family: 'Arial', sans-serif;\r\n  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);\r\n  margin: 20px 0; /* Margem */\r\n}\r\n\r\n.first-form {\r\n  display: flex;\r\n  flex-direction: column;\r\n  align-items: center; /* Centraliza o formul\u00E1rio */\r\n  margin-top: 20px;\r\n}\r\n\r\n.example-form-field {\r\n  width: 50%;\r\n  min-width: 300px;\r\n}\r\n\r\n.button {\r\n  margin-top: 20px;\r\n}\r\n\r\n.table-1 {\r\n  margin-top: 20px;\r\n}\r\n\r\n.div-table {\r\n  margin-left: 200px;\r\n  margin-right: 200px;\r\n  display: flex;\r\n}\r\n\r\n.alert-toast {\r\n  background-color: #f44336; /* Cor de alerta (vermelho) */\r\n  color: white;\r\n}\r\n"],
+  "mappings": ";AAAA,CAAC;AACC,QAAM;AACN,cAAY;AACZ,SAAO;AACP,aAAW;AACX,eAAa;AACb,eAAa,OAAO,EAAE;AACtB,eAAa,IAAI,IAAI,IAAI,KAAK,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE;AACvC,UAAQ,KAAK;AACf;AAEA,CAAC;AACC,WAAS;AACT,kBAAgB;AAChB,eAAa;AACb,cAAY;AACd;AAEA,CAAC;AACC,SAAO;AACP,aAAW;AACb;AAEA,CAAC;AACC,cAAY;AACd;AAEA,CAAC;AACC,cAAY;AACd;AAEA,CAAC;AACC,eAAa;AACb,gBAAc;AACd,WAAS;AACX;AAEA,CAAC;AACC,oBAAkB;AAClB,SAAO;AACT;",
+  "names": []
+}
