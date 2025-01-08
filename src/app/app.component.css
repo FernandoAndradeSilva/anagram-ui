@@ -34,3 +34,8 @@
   margin-right: 200px;
   display: flex;
 }
+
+.alert-toast {
+  background-color: #f44336; /* Cor de alerta (vermelho) */
+  color: white;
+}

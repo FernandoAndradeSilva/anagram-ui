@@ -12,7 +12,9 @@ export class AnagramService {
     }
 
     getAnagrams(word: string) {
-        return this.http.get(environment.api.uri + "/anagram/")
+        return this.http.post(environment.api.uri + "/anagram" , {
+            descricao: word
+        })
     }
 
 
